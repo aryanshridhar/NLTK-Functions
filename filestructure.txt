@@ -1,0 +1,14 @@
+.
+├── Bag Of Words
+│   └── Bag Of Words NLTK.ipynb
+├── Basics
+│   └── NLTK Basics.ipynb
+├── filestructure.txt
+├── Lemmatizaiton
+│   └── Lemmatization NLTK.ipynb
+├── Stemming
+│   └── Stemming NLTK.ipynb
+└── TF-IDF
+    └── TF-IDF NLTK.ipynb
+
+5 directories, 6 files
